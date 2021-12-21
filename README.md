@@ -1,0 +1,2 @@
+# MyRule
+rule for clash
