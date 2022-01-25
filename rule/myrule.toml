@@ -1,0 +1,79 @@
+[[rulesets]]
+group = "🏠 HOME"
+ruleset = "https://raw.githubusercontent.com/pjylilac/MyRule/main/rule/list/proxy/Home.list"
+
+[[rulesets]]
+group = "Ⓜ️ 微软服务"
+ruleset = "rules/MSServices.list"
+
+[[rulesets]]
+group = "� 全球直连"
+ruleset = "rules/DivineEngine/Surge/Ruleset/Unbreak.list"
+
+[[rulesets]]
+group = "� 全球拦截"
+ruleset = "rules/NobyDa/Surge/AdRule.list"
+
+[[rulesets]]
+group = "� 全球拦截"
+ruleset = "rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list"
+
+[[rulesets]]
+group = "� NETFLIX"
+ruleset = "rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list"
+
+[[rulesets]]
+group = "� 国外媒体"
+ruleset = "rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list"
+
+[[rulesets]]
+group = "� 国内媒体"
+ruleset = "rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list"
+
+[[rulesets]]
+group = "� 国内媒体"
+ruleset = "rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list"
+
+[[rulesets]]
+group = "� 国内媒体"
+ruleset = "rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list"
+
+[[rulesets]]
+group = "� 国内媒体"
+ruleset = "rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list"
+
+[[rulesets]]
+group = "� 国内媒体"
+ruleset = "rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list"
+
+[[rulesets]]
+group = "� 国内媒体"
+ruleset = "rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list"
+
+[[rulesets]]
+group = "� 电报信息"
+ruleset = "rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list"
+
+[[rulesets]]
+group = "� 节点选择"
+
+
+[[rulesets]]
+group = "� 苹果服务"
+ruleset = "rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list"
+
+[[rulesets]]
+group = "� 全球直连"
+ruleset = "rules/DivineEngine/Surge/Ruleset/China.list"
+
+[[rulesets]]
+group = "� 全球直连"
+ruleset = "rules/NobyDa/Surge/Download.list"
+
+[[rulesets]]
+group = "� 全球直连"
+ruleset = "[]GEOIP,CN"
+
+[[rulesets]]
+group = "� 漏网之鱼"
+ruleset = "[]FINAL"
