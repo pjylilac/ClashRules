@@ -38,3 +38,11 @@ DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerhub.com
+
+
+# Notion
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
